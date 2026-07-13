@@ -1,13 +1,13 @@
 [package]
 name = "barometre-prix-web-fr"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 rust-version = "1.70"
 description = "Open dataset of French website-creation prices (2026): 103 recorded price points across freelancers, agencies and SaaS builders, published by Les Créavores under CC-BY 4.0."
 license = "MIT"
 homepage = "https://lescreavores.fr/prix-creation-site-internet/"
 documentation = "https://docs.rs/barometre-prix-web-fr"
-repository = "https://github.com/lescreavores/barometre-prix-web-fr"
+repository = "https://github.com/tresor4k/barometre-prix-web-fr"
 readme = "README.md"
 keywords = ["dataset", "france", "pricing", "website", "csv"]
 categories = ["parsing", "data-structures"]
