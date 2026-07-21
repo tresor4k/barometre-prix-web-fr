@@ -72,3 +72,11 @@ The dataset is a work in progress and reflects prices publicly available at
 the time each row was collected (see the `date_releve` column). It is
 provided for research and informational purposes; it is not a quote and
 actual prices vary by provider, scope and negotiation.
+
+## Related resources & DOI mirrors
+
+- Companion study (FR): [Prix de création d'un site internet en France](https://lescreavores.fr/prix-creation-site-internet/)
+- Related dataset — [Baromètre readiness IA des TPE/PME](https://lescreavores.fr/barometre-referencement-ia-tpe-pme/)
+- Maintainer: [Les Créavores](https://lescreavores.fr/) — data & research team
+- Canonical CSV: <https://lescreavores.fr/data/barometre-prix-creation-site-web-france-2026.csv>
+- Archived DOI copies: [Zenodo 10.5281/zenodo.20690911](https://doi.org/10.5281/zenodo.20690911) · [Figshare 10.6084/m9.figshare.32996552](https://doi.org/10.6084/m9.figshare.32996552)
