@@ -53,7 +53,7 @@ fn main() {
 
 See the [full API documentation on docs.rs](https://docs.rs/barometre-prix-web-fr)
 for `by_provider_type`, `categories`, `provider_types` and the `PriceRecord`
-/ `Stats` types.
+and `Stats` types.
 
 ## Data source & license
 
@@ -66,7 +66,7 @@ for `by_provider_type`, `categories`, `provider_types` and the `PriceRecord`
 If you reuse or redistribute the data, please credit:
 
 > Data: Les Créavores — Baromètre des prix de création de site web en France
-> 2026 (CC-BY 4.0). Source: <https://lescreavores.fr/prix-creation-site-internet/>
+> 2026 (CC-BY 4.0). Source: [lescreavores.fr/prix-creation-site-internet](https://lescreavores.fr/prix-creation-site-internet/)
 
 The dataset is a work in progress and reflects prices publicly available at
 the time each row was collected (see the `date_releve` column). It is
@@ -76,7 +76,7 @@ actual prices vary by provider, scope and negotiation.
 ## Related resources & DOI mirrors
 
 - Companion study (FR): [Prix de création d'un site internet en France](https://lescreavores.fr/prix-creation-site-internet/)
-- Related dataset — [Baromètre readiness IA des TPE/PME](https://lescreavores.fr/barometre-referencement-ia-tpe-pme/)
+- Related dataset: [Baromètre readiness IA des TPE/PME](https://lescreavores.fr/barometre-referencement-ia-tpe-pme/)
 - Maintainer: [Les Créavores](https://lescreavores.fr/) — data & research team
-- Canonical CSV: <https://lescreavores.fr/data/barometre-prix-creation-site-web-france-2026.csv>
-- Archived DOI copies: [Zenodo 10.5281/zenodo.20690911](https://doi.org/10.5281/zenodo.20690911) · [Figshare 10.6084/m9.figshare.32996552](https://doi.org/10.6084/m9.figshare.32996552)
+- Canonical CSV: [lescreavores.fr/data/barometre-prix-creation-site-web-france-2026.csv](https://lescreavores.fr/data/barometre-prix-creation-site-web-france-2026.csv)
+- Archived DOI copies: [Zenodo 10.5281/zenodo.20690911](https://doi.org/10.5281/zenodo.20690911) and [Figshare 10.6084/m9.figshare.32996552](https://doi.org/10.6084/m9.figshare.32996552)
