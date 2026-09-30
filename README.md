@@ -80,3 +80,4 @@ actual prices vary by provider, scope and negotiation.
 - Maintainer: [Les Créavores](https://lescreavores.fr/) — data & research team
 - Canonical CSV: [lescreavores.fr/data/barometre-prix-creation-site-web-france-2026.csv](https://lescreavores.fr/data/barometre-prix-creation-site-web-france-2026.csv)
 - Archived DOI copies: [Zenodo 10.5281/zenodo.20690911](https://doi.org/10.5281/zenodo.20690911) and [Figshare 10.6084/m9.figshare.32996552](https://doi.org/10.6084/m9.figshare.32996552)
+
